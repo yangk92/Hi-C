@@ -1,3 +1,4 @@
+#!/bin/bash
 py=~/miniconda2/envs/hicpro3.0.0/bin/python
 sparse2dense=~/software/HiC-Pro/HiC-Pro_3.0.0/bin/utils/sparseToDense.py
 bin40kbed=***/hic-pro_results/hic_results/matrix/*/raw/40000/*_40000_abs.bed
