@@ -1,5 +1,5 @@
 #!/bin/bash
-chromsizes=~/software/HiC-Pro_2.10.0/annotation/chrom_mm10.sizes
+chromsizes=~/software/HiC-Pro/HiC-Pro_3.0.0/annotation/chrom_mm10.sizes
 binsize=40000
 validfile=***/Cleandata/hic-pro_results/hic_results/data/sample/sample_allValidPairs
 coolfile=***/Cleandata/cooler/sample_40000.cool
